@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Sven Nijhuis
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Responsive
  
 </details>
 
@@ -39,12 +39,12 @@ hier je focus (kies uit responsive óf surface plane)
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepagina
+<img src="images/www.polestar.com_nl_.png" width="375px" alt="Dit is de homepagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Zakelijke pagina
+<img src="images/www.polestar.com_nl_fleet_(iPhone X).png" width="375px" alt="Zakelijke pagina">
  
 </details>
 
@@ -55,14 +55,16 @@ hier de naam van de pagina
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+### de hele pagina (Home): 
+<img src="images/pagina1.png" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+### pagina 2 (Zakelijk): 
+<img src="images/pagina2.png" width="375px" alt="breakdown van de hele pagina">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+### dynamisch deel (menu): 
+<img src="images/menu.png" width="375px" alt="breakdown van een dynamisch deel">
+
+
 
 </details>
 
@@ -76,17 +78,12 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het gaat goed. De eerste pagina is zo goed als af. Ik hoef er alleen nog kleine detail aan te passen. Daarnaast heb ik mijn best gedaan met css om ze goed aan te spreken. Ik moet alleen mijn css bestand beter ordenen. Ik ben nu bezig met mijn hamburger menu. Dat gaat goed.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Sven - Ik hoef niks te bespreken. Alles is redelijk duidelijk. Ik kan zelstandig door.
 
 
 ### Verslag van meeting
