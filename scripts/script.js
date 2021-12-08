@@ -17,14 +17,30 @@ function doeActief() {
 
 
 // header
-var button = document.querySelector(".slide-header img");
+var button = document.querySelectorAll(".slide-header img");
 var element = document.querySelector("header nav");
-var close = document.querySelector("header nav");
+var close = document.querySelector("header nav img");
 
-button.addEventListener("click", function() {
-  element.classList.add("show");
-});
+for (i=0; i<button.length; i++) {
+  button[i].addEventListener("click", function() {
+    element.classList.add("show");
+  });
+}
 
 close.addEventListener("click", function() {
   element.classList.remove("show");
 });
+
+
+
+
+
+// footer
+const mediaQuery = window.matchMedia('(min-width: 992px)')
+
+if (mediaQuery.matches) {
+  const details = document.querySelectorAll("details");
+  for (i=0; i<details.length; i++) {
+    details[i].setAttribute("open", "");
+  }
+}

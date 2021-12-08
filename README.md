@@ -111,12 +111,7 @@ Sven - Ik ga goed. Ik kan zo verder gaan.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik heb geluisterd naar mijn groep leden maar heb er niks nuttigs uitgehaald.
 
 </details>
 
@@ -130,7 +125,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+- Een screenreader is lastig te lezen.
+- Op een macbook werkt de screenreader beter op Safari dan Chrome.
+- Als je een link plaatst kan het verwarend zijn als je er een tekst element in zet.
+- Hamburger menu kan je niet openen met een screenreader.
+- Voeg alt tekst toe voor een screenreader.
+- Tab toets werk goed op de website.
+- Ballonnen test ging goed. Alles was leesbaar en duidelijk.
+- Brillentest alles was duidelijk.
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
@@ -167,17 +169,11 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Alles gaat goed en ik ben aan het afronden
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Sven - Ik heb geen verdere vragen.
 
 
 ### Verslag van meeting

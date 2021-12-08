@@ -26,14 +26,14 @@ video{
   margin-inline-end: 0px;
 }
 
-body{
+main{
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
 
 @media screen and (min-width: 992px) {
-  body{
+  main{
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
@@ -122,6 +122,57 @@ header nav{
 
 header nav.show{
   transform: translateX(0px);
+  position: fixed;
+}
+
+header nav img{
+  width: 30px;
+}
+
+header nav{
+  padding: 40px;
+}
+
+header nav article:nth-child(1){
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+header nav article:nth-child(1) a{
+  color: #fff;
+}
+
+header nav article:nth-child(2) li{
+  padding: 10px 0px;
+  font-size: 30px;
+  color: rgba(225, 225, 225, 0.6);
+}
+
+header nav section{
+  display: flex;
+  padding-top: 50px;
+}
+
+header nav section article, header nav section article:nth-child(2) {
+  padding: 0px 50px 0px 0px;
+}
+
+header nav section article ul li, header nav section article:nth-child(2) ul li {
+  padding: 0px;
+  font-size: 16px;
+  color: rgba(225, 225, 225, 0.6);
+}
+
+.flow{
+  overflow: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  height: 90%;
+}
+
+.flow::-webkit-scrollbar {
+  display: none;
 }
 
 
@@ -132,16 +183,9 @@ header nav.show{
 
 footer{
   background-color: rgb(236, 236, 231);
-}
-footer section{
-  padding-left: 7vw;
-  padding-right: 7vw;
+  padding: 50px;
 }
 
-footer section article{
-  padding-left: 0vw;
-  padding-right: 0vw;
-}
 
 
 .body-footer{
@@ -149,7 +193,7 @@ footer section article{
 }
 
 footer section article{
-  border-bottom: #000 solid 2px;
+
 }
 .add{
   display: none;
@@ -164,6 +208,79 @@ nav article.activefooter .add{
   display: block;
 }
 
+footer details{
+  padding: 20px 0px;
+  border-bottom: 1px solid #000 ;
+}
+
+details ul li{
+  padding: 10px 0px;
+}
+
+
+ul {
+  padding-inline-start: 0px;
+}
+
+
+
+footer section article {
+  padding-left: 0vw;
+  padding-right: 0vw;
+}
+
+footer section:nth-child(2) {
+  margin: 0px;
+  margin-top: 40px;
+}
+
+footer section:nth-child(1) article:nth-child(1) a{
+  background: #343b41;
+  color: #fff;
+  height: 50px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer section:nth-child(2) article:nth-child(1) p:nth-child(1){
+  color: rgba(16, 24, 32, 0.6);
+  font-size: 13px;
+}
+
+footer section:nth-child(2) article:nth-child(1) p:nth-child(2){
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+footer section:nth-child(2) article:nth-child(1) a{
+  margin: 0px 0px 0px 5px;
+}
+
+
+details[open] summary ul li {
+  animation: footer .5s ease-in-out;
+}
+
+@keyframes footer {
+  from {opacity: 0; margin-left: -10px}
+  to  {opacity: 1; margin-left: 0px}
+}
+
+@media screen and (min-width: 992px){
+  footer section:nth-child(1){
+    display: flex;
+  }
+  footer section:nth-child(2) article {
+    display: flex;
+    justify-content: space-between;
+  }
+  footer section:nth-child(2) article a {
+    margin: 0px;
+  }
+}
 /**************************/
 /* Buttons */
 /**************************/
