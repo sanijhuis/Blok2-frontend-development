@@ -134,28 +134,17 @@ Ik heb geluisterd naar mijn groep leden maar heb er niks nuttigs uitgehaald.
 - Ballonnen test ging goed. Alles was leesbaar en duidelijk.
 - Brillentest alles was duidelijk.
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+<img src="images/test.jpg" width="375px" alt="zakelijk">
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Tab toetsen
+Als ik met tab door mijn website ging waren er lelijke outlines. Ik heb dit vervangen door een border en een andere text kleur.
 
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Hamburger menu aangepast
+Ik had in mijn hamburger menu geen a vermeld dus met tabben kwam ik niet bij mijn hamburger menu. Ik heb dat aangepast.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Alt tekst
+Ik merkte dat de screenreader mijn alt teksten niet voorlas. Dat kon kloppen, omdat ik het helemaal niet had ingevuld.
 
 </details>
 
@@ -177,12 +166,7 @@ Sven - Ik heb geen verdere vragen.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik heb er geen nuttige informatie uitgehaald voor mijn project.
 
 </details>
 
@@ -196,14 +180,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vond het intressant om te leren hoe je beter elementen kan aaspreken zonder dat je een klas hoefte te gebruiken. Daarnaast heb ik ook geleerd hoe je met een simpele JavaScript een beweging in gang kan brengen.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
 
-</details>
+<img src="images/index-eindresultaat.png" width="375px" alt="Index">
+<img src="images/eindresultaat-zakelijk.png" width="375px" alt="zakelijk">
 
+</details>
 
 
 
@@ -215,8 +201,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.polestar.com/nl/
+2. https://codepen.io/SlouchyBeanie/pen/EOWMwL
+3. https://dlo.mijnhva.nl/d2l/home
 
 </details>
