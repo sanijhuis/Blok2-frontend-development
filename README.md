@@ -193,5 +193,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. https://www.polestar.com/nl/
 2. https://codepen.io/SlouchyBeanie/pen/EOWMwL
 3. https://dlo.mijnhva.nl/d2l/home
+4. https://fonts.google.com/
 
 </details>
